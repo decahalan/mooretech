@@ -23,6 +23,8 @@ Finally, how about a `<blockquote>`?
 
 > Quotes will take a slightly different style to normal body text and look fancy.
 
-![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1622487755/mooretech/PearceLogo_gcncvx.png)
+![](https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1622487755/mooretech/PearceLogo_gcncvx.png)
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/mooretech/v1622500736/mooretech/700f48c0db_gbvbxm.jpg)
