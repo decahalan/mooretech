@@ -1,12 +1,12 @@
 ---
 title: A post with figures and video
-date: '2019-06-18'
+date: 2019-06-18
 tags:
-  - demo-content
-  - blog
-  - media
----
+- demo-content
+- blog
+- media
 
+---
 A post to demonstrate how a blog post looks on Hylia. Content is all set in the
 “Body” field as markdown and Eleventy transforms it into a proper HTML post. You
 can also edit the markdown file directly if you prefer not to use the CMS.
@@ -23,6 +23,6 @@ Finally, how about a `<blockquote>`?
 
 > Quotes will take a slightly different style to normal body text and look fancy.
 
-![Person holds up a photograph of a riverside and buildings with the same river as a backdrop](/images/demo-image-2.jpg "Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash.")
+![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/mooretech/c_scale,w_auto:100,dpr_auto/v1622487755/mooretech/PearceLogo_gcncvx.png)
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
