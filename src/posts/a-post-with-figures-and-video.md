@@ -13,4 +13,4 @@ can also edit the markdown file directly if you prefer not to use the CMS.
 
 If you want to make an image bleed-out, add a title attribute to it and the front-end will automatically wrap it in a `<figure>` tag for you.
 
-![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/mooretech/v1622500736/mooretech/700f48c0db_gbvbxm.jpg)
+![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1622500736/mooretech/700f48c0db_gbvbxm.jpg)
