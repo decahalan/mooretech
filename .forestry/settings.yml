@@ -22,9 +22,9 @@ sections:
   path: src/_data/tokens.json
   label: Theme settings
 upload_dir: mooretech
-public_path: " https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/mooretech"
-front_matter_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/mooretech
-use_front_matter_path: true
+public_path: " https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload"
+front_matter_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
