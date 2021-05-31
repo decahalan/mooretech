@@ -7,11 +7,7 @@ tags:
 - media
 
 ---
-<<<<<<< HEAD
 A post to blah how a blog post looks on Hylia. Content is all set in the
-=======
-![](https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/mooretech/c_scale,w_auto:100,dpr_auto/v1622500736/mooretech/700f48c0db_gbvbxm.jpg)A post to demonstrate how a blog post looks on Hylia. Content is all set in the
->>>>>>> 93ca1dd1f04bccfbb6dd94890a8051fd10e79032
 “Body” field as markdown and Eleventy transforms it into a proper HTML post. You
 can also edit the markdown file directly if you prefer not to use the CMS.
 
@@ -27,10 +23,6 @@ Finally, how about a `<blockquote>`?
 
 > Quotes will take a slightly different style to normal body text and look fancy.
 
-<<<<<<< HEAD
 ![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1622487755/mooretech/PearceLogo_gcncvx.png)
-=======
-![]( https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/c_scale,w_auto:100,dpr_auto/v1622500736/mooretech/700f48c0db_gbvbxm.jpg)
->>>>>>> 93ca1dd1f04bccfbb6dd94890a8051fd10e79032
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
